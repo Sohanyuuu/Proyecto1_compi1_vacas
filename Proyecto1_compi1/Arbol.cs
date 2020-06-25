@@ -61,7 +61,8 @@ namespace Proyecto1_compi1
                 System.Diagnostics.Process proc = new System.Diagnostics.Process();
                 proc.StartInfo = procStartInfo;
                 proc.Start();
-                Console.WriteLine("la imagen ya fue creada");*/
+                Console.WriteLine("la imagen ya fue creada");
+               para el repor*/
             }
 
 
